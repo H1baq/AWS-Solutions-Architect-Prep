@@ -41,4 +41,4 @@ Functional requirements define what a product or system must do, including its f
 - Help keep project teams aligned
 - Define system behavior and capabilities
 
-![alt text](<Screenshot from 2026-01-07 18-41-24.png>)
+<img width="701" height="458" alt="Screenshot from 2026-01-07 18-41-24" src="https://github.com/user-attachments/assets/3c7247cc-c310-4cc2-aace-d6ed1b63c7aa" />
