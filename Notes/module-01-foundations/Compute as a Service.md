@@ -40,6 +40,9 @@ Virtual machines emulate traditional physical servers and are the most familiar 
 * **Key Pairs:**
   Used for secure access to EC2 instances. AWS stores the public key; the user stores the private key.
 
+  <img width="521" height="351" alt="Screenshot from 2026-01-12 11-21-27" src="https://github.com/user-attachments/assets/b84cb89b-5aa4-4854-9a4e-a58487ac05ca" />
+
+
 * **Tenancy Options:**
 
   * Shared tenancy
@@ -55,6 +58,8 @@ Virtual machines emulate traditional physical servers and are the most familiar 
 
 * **User Data:**
   Scripts or cloud-init instructions that run at instance launch to automate setup tasks such as patching, installing software, or configuring services.
+
+<img width="472" height="262" alt="image" src="https://github.com/user-attachments/assets/8c8621a2-5546-4c1d-a532-336fba6a3223" />
 
 ---
 
